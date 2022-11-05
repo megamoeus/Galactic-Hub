@@ -8,7 +8,7 @@ Adding More Soon Lol
 
 -- Made By RandomDeveloper Studio's
 
--- Games Supported As of now: Break In, Zulu War, and Trick Shot Simulator
+-- Games Supported As of now: Break In, Zulu War, Combat Warriors ,and Trick Shot Simulator
 
 -- Synapse Only!!!
 

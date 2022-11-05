@@ -6,7 +6,9 @@ Adding More Soon Lol
 ```lua
 --[[
 
-Made By RandomDeveloper Studio's
+-- Made By RandomDeveloper Studio's
+
+-- Games Supported As of now: Break In, Zulu War, and Trick Shot Simulator
 
 -- Synapse Only!!!
 

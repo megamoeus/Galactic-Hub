@@ -1,9 +1,9 @@
 local fw = require(game.ReplicatedStorage.Framework.Nevermore);
-    syn_context_set(2)
+syn_context_set(2)
 local acc = fw("AntiCheatHandlerClient")
-    syn_context_set(7)
+syn_context_set(7)
 local func = acc.createNotification
-    hookfunc(func, function() return end)
+hookfunc(func, function() return end)
 local hook
 hook = hookmetamethod(game, "__namecall", function(self, ...)
    if getnamecallmethod() == "FireServer" and self.Name == "LogKick" then
